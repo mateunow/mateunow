@@ -12,4 +12,4 @@ I build REST APIs, data-driven systems, and like poking around with new tech.
 ### 🔨 Projects I'm proud of
 - [`gtfs-mcp-server`](https://github.com/mateunow/gtfs-mcp-server) — Spring Boot app integrating GTFS Realtime + Static data for Kraków transit, with MCP endpoint for AI tool integration
 - [`Bazy-danych-projekt`](https://github.com/mateunow/Bazy-danych-projekt) — Resource reservation system with MongoDB transactions, conflict detection and aggregation reports
-- `vigilex` *(in progress)* — Engineering thesis: legislative monitoring app with LLM summarization and personalized notifications (FastAPI + Flutter)
+- `legally` *(in progress)* — Engineering thesis: legislative monitoring app with LLM summarization and personalized notifications (FastAPI + Flutter)
